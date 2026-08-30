@@ -1,0 +1,10 @@
+aiogram>=3.30.0
+aiohttp>=3.14.3
+psycopg2-binary>=3.3.4
+requests>=2.34.2
+fake-useragent>=2.2.0
+pyTelegramBotAPI>=4.36.0
+bs4>=4.15.0
+Faker>=40.36.0
+psutil>=7.2.2
+playwright>=1.62.1

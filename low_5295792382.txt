@@ -1,0 +1,54 @@
+https://banjo-brothers.myshopify.com | $1.95 | CARD_DECLINED
+https://aa3d42-2.myshopify.com | $4.85 | CARD_DECLINED
+https://national-shrine-of-st-dymphna.myshopify.com/ | $0.30 | CARD_DECLINED
+https://hanks-belts.myshopify.com | $3.99 | CARD_DECLINED
+https://www.storeyfamilyfarm.com | $2.50 | CARD_DECLINED
+https://meerkats.myshopify.com | $5.00 | CARD_DECLINED
+https://sagebrushsavvy.myshopify.com | $3.00 | CARD_DECLINED
+https://anvil-cards.myshopify.com | $2.50 | CARD_DECLINED
+https://e20de9-16.myshopify.com | $3.00 | CARD_DECLINED
+https://primo-passi.myshopify.com | $1.99 | CARD_DECLINED
+https://zpacks.myshopify.com | $0.89 | CARD_DECLINED
+https://plast-aid.myshopify.com | $1.95 | CARD_DECLINED
+https://www.threadcutterz.com/ | $4.99 | CARD_DECLINED
+https://expressionmed.com | $0.99 | CARD_DECLINED
+https://vrd-retail.myshopify.com | $1.99 | CARD_DECLINED
+https://corpsbuckle.myshopify.com | $2.97 | CARD_DECLINED
+https://homerunpet-store.myshopify.com | $5.00 | CARD_DECLINED
+https://round-house-outlet.myshopify.com | $1.95 | CARD_DECLINED
+https://the-epoxy-resin-store.myshopify.com | $2.50 | CARD_DECLINED
+https://sammedicalstore.myshopify.com | $0.99 | CARD_DECLINED
+https://zefiro-chicago.myshopify.com | $0.90 | CARD_DECLINED
+https://doctorqs.myshopify.com | $4.99 | CARD_DECLINED
+https://stellas-stickers-studio.myshopify.com | $4.25 | CARD_DECLINED
+https://homespunmn.myshopify.com | $3.00 | Submit Rejected: DELIVERY_NO_DELIVERY_STRATEGY_AVAILABLE_FOR_MERCHANDISE_LINE
+https://gandhi-appliances-llc.myshopify.com | $5.00 | Submit Rejected: DELIVERY_NO_DELIVERY_STRATEGY_AVAILABLE
+https://pkdotbiz.myshopify.com/ | $0.44 | CARD_DECLINED
+https://outdoor-beerdsman.myshopify.com | $4.00 | CARD_DECLINED
+https://venture-wisconsin.myshopify.com | $4.00 | CARD_DECLINED
+https://gofastcampers.myshopify.com | $5.00 | CARD_DECLINED
+https://sundaygolfco.myshopify.com | $1.00 | Submit Rejected: DELIVERY_NO_DELIVERY_STRATEGY_AVAILABLE_FOR_MERCHANDISE_LINE
+https://renees-garden.myshopify.com | $2.99 | CARD_DECLINED
+https://questnutrition.myshopify.com | $0.01 | CARD_DECLINED
+https://moogoo-usa.myshopify.com | $4.50 | CARD_DECLINED
+https://spyhouse-coffee-roasting-co.myshopify.com | $2.00 | CARD_DECLINED
+https://rabbitair.myshopify.com | $4.99 | CARD_DECLINED
+https://spatty-2.myshopify.com | $2.95 | Submit Rejected: BUYER_IDENTITY_PRESENTMENT_CURRENCY_DOES_NOT_MATCH
+https://test-rhf.myshopify.com | $3.99 | CARD_DECLINED
+https://super-tots.com | $4.99 | CARD_DECLINED
+https://jezebel-gallery.myshopify.com | $3.50 | CARD_DECLINED
+https://skywalker-trampolines.myshopify.com | $3.00 | CARD_DECLINED
+https://pom-pom-at-home.myshopify.com | $5.00 | CARD_DECLINED
+https://americana-pipedream-apparel.myshopify.com | $0.95 | CARD_DECLINED
+https://seattle-pottery-supply.myshopify.com | $0.10 | CARD_DECLINED
+https://carrot-top-tuning.myshopify.com | $5.00 | Submit Rejected: BUYER_IDENTITY_PRESENTMENT_CURRENCY_DOES_NOT_MATCH
+https://paperproducts-design.myshopify.com | $1.99 | Submit Rejected: WAITING_PENDING_TERMS
+https://ohmydollar.myshopify.com | $3.95 | Submit Rejected: WAITING_PENDING_TERMS
+https://four-bros-lighting-7805.myshopify.com | $4.99 | CARD_DECLINED
+https://stickii-club.myshopify.com | $2.00 | CARD_DECLINED
+https://planterhomawholesale.com | $1.00 | CARD_DECLINED
+https://ezautowrap.myshopify.com | $4.98 | CARD_DECLINED
+https://the-extra-detail.myshopify.com | $0.35 | CARD_DECLINED
+https://seasofaction.myshopify.com | $4.00 | CARD_DECLINED
+https://orleans-home-fragrance.myshopify.com | $3.00 | CARD_DECLINED
+https://outward-bound-usa.myshopify.com | $4.00 | CARD_DECLINED
